@@ -4,6 +4,9 @@
   <a href="https://www.linkedin.com/in/harman-s-mann/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
+  <a href="mailto:harmany@hotmail.ca">
+    <img src="https://img.shields.io/badge/Email-red?style=for-the-badge&logo=mail.ru&logoColor=white" alt="Email Badge"/>
+  </a>
 </div>
 
 ## Here is a Resume Video I made a while back:
