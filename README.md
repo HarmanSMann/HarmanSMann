@@ -7,8 +7,7 @@
 </div>
 
 ## Here is a Resume Video I made a while back:
-[Resume Video](https://www.linkedin.com/posts/harman-s-mann_resume-technology-techtalent-activity-7026954462950809600-bP2b/?utm_source=share&utm_medium=member_desktop)
-https://img.linkedin.com/posts/harman-s-mann_resume-technology-techtalent-activity-7026954462950809600-bP2b/?utm_source=share&utm_medium=member_desktop
+[My Resume Video](https://www.linkedin.com/posts/harman-s-mann_resume-technology-techtalent-activity-7026954462950809600-bP2b/?utm_source=share&utm_medium=member_desktop)
 
 # 👀 I’m interested in:
 - Making things
@@ -25,7 +24,7 @@ https://img.linkedin.com/posts/harman-s-mann_resume-technology-techtalent-activi
 
 # 📫 How to reach me:
 - [Linkedin](https://www.linkedin.com/in/harman-s-mann/)
-- Email: harmany@hotmail.ca
+- [Email] (harmany@hotmail.ca)
 
 ---
 
