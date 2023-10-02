@@ -17,7 +17,10 @@
 # 🌱 I’m currently learning:
 - Kotlin
 
-# 💞️ I’m looking to collaborate on ...
+# 💞️ I’m looking to collaborate on
+- Android Development
+- Web Development
+- Game Development
 
 # 📫 How to reach me:
 - [Linkedin](https://www.linkedin.com/in/harman-s-mann/)
@@ -28,7 +31,7 @@
 ## :hammer_and_wrench: Languages and Tools:
 
 <div style="display: flex; justify-content: center; align-items: center; gap: 20px;">
-
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-plain-wordmark.svg" title="Android" alt="Android" width="60" height="60"/>&nbsp;
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="60" height="60"/>&nbsp;
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="60" height="60"/>&nbsp;
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/materialui/materialui-original.svg" title="Material UI" alt="Material UI" width="60" height="60"/>&nbsp;
@@ -41,8 +44,6 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original-wordmark.svg" title="Git" alt="Git" width="60" height="60"/>&nbsp;
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original-wordmark.svg" title="Python" alt="Python" width="60" height="60"/>&nbsp;
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" title="C#" alt="C#" width="60" height="60"/>&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-plain-wordmark.svg" title="Android" alt="Android" width="60" height="60"/>&nbsp;
-
 </div>
 
 ---
