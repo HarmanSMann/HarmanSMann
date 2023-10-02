@@ -9,7 +9,9 @@
 - Here is a Resume Video I made a while back:
   https://www.linkedin.com/posts/harman-s-mann_resume-technology-techtalent-activity-7026954462950809600-bP2b/?utm_source=share&utm_medium=member_desktop
 
---- 
+---
+
+### :hammer_and_wrench: Languages and Tools :
 - 👀 I’m interested in:
       - Making things
       - developing for Android or the Web
