@@ -44,9 +44,9 @@
 
 ### :fire: My Stats :
 
-https://github-readme-streak-stats.herokuapp.com/?user=HarmanSMann
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HarmanSMann)](https://github.com/anuraghazra/github-readme-stats)
 
-
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HarmanSMann&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
 
 <!---
