@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @HarmanSMann:
+# 👋 Hi, I’m @HarmanSMann:
 
 <div id="badges" style="display: flex; justify-content: center; align-items: center; height: 100vh;">
   <a href="https://www.linkedin.com/in/harman-s-mann/">
@@ -6,48 +6,52 @@
   </a>
 </div>
 
-- Here is a Resume Video I made a while back:
-  https://www.linkedin.com/posts/harman-s-mann_resume-technology-techtalent-activity-7026954462950809600-bP2b/?utm_source=share&utm_medium=member_desktop
+## Here is a Resume Video I made a while back:
+[Resume Video](https://www.linkedin.com/posts/harman-s-mann_resume-technology-techtalent-activity-7026954462950809600-bP2b/?utm_source=share&utm_medium=member_desktop)
 
-- 👀 I’m interested in:
-      - Making things
-      - developing for Android or the Web
-      - Seeing things go from start to finish
+# 👀 I’m interested in:
+- Making things
+- Developing for Android or the Web
+- Seeing things go from start to finish
 
-- 🌱 I’m currently learning:
-      - Kotlin
-   
-- 💞️ I’m looking to collaborate on ...
+# 🌱 I’m currently learning:
+- Kotlin
 
-- 📫 How to reach me:
-      - Linkedin: https://www.linkedin.com/in/harman-s-mann/
-      - Email: harmany@hotmail.ca
+# 💞️ I’m looking to collaborate on ...
+
+# 📫 How to reach me:
+- [Linkedin](https://www.linkedin.com/in/harman-s-mann/)
+- Email: harmany@hotmail.ca
+
 ---
 
-### :hammer_and_wrench: Languages and Tools :
+## :hammer_and_wrench: Languages and Tools:
 
-<div>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/materialui/materialui-original.svg" title="Material UI" alt="Material UI" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/firebase/firebase-plain-wordmark.svg" title="Firebase" alt="Firebase" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL"  alt="MySQL" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" title="NodeJS" alt="NodeJS" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
+<div style="display: flex; justify-content: center; align-items: center; gap: 20px;">
+
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="60" height="60"/>&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="60" height="60"/>&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/materialui/materialui-original.svg" title="Material UI" alt="Material UI" width="60" height="60"/>&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-plain-wordmark.svg" title="CSS3" alt="CSS" width="60" height="60"/>&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="60" height="60"/>&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="60" height="60"/>&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/firebase/firebase-plain-wordmark.svg" title="Firebase" alt="Firebase" width="60" height="60"/>&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL" alt="MySQL" width="60" height="60"/>&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" title="NodeJS" alt="NodeJS" width="60" height="60"/>&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original-wordmark.svg" title="Git" alt="Git" width="60" height="60"/>&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original-wordmark.svg" title="Python" alt="Python" width="60" height="60"/>&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" title="C#" alt="C#" width="60" height="60"/>&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-plain-wordmark.svg" title="Android" alt="Android" width="60" height="60"/>&nbsp;
+
 </div>
 
-
 ---
 
-### :fire: My Stats :
+## :fire: My Stats:
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=HarmanSMann&theme=dark&background=000000)](https://git.io/streak-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HarmanSMann&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
-
 
 <!---
 HarmanSMann/HarmanSMann is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
