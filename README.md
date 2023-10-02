@@ -1,5 +1,11 @@
 - 👋 Hi, I’m @HarmanSMann:
 
+<div id="badges">
+  <a href="Linkedin: https://www.linkedin.com/in/harman-s-mann/">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
+</div>
+
 - Here is a Resume Video I made a while back:
   https://www.linkedin.com/posts/harman-s-mann_resume-technology-techtalent-activity-7026954462950809600-bP2b/?utm_source=share&utm_medium=member_desktop
   
