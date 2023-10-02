@@ -24,7 +24,7 @@
 
 # 📫 How to reach me:
 - [Linkedin](https://www.linkedin.com/in/harman-s-mann/)
-- [Email] (harmany@hotmail.ca)
+- [Email](harmany@hotmail.ca)
 
 ---
 
