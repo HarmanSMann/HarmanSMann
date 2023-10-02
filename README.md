@@ -8,7 +8,7 @@
     - Kotlin
     - 
 - 💞️ I’m looking to collaborate on ...
-- 
+
 - 📫 How to reach me:
     - Linkedin: https://www.linkedin.com/in/harman-s-mann/
     - Email: harmany@hotmail.ca
