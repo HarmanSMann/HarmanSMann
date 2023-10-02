@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @HarmanSMann
+- 👋 Hi, I’m @HarmanSMann:
 
 - Here is a Resume Video I made a while back:
   https://www.linkedin.com/posts/harman-s-mann_resume-technology-techtalent-activity-7026954462950809600-bP2b/?utm_source=share&utm_medium=member_desktop
