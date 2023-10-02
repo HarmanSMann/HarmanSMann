@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @HarmanSMann:
 
-<div center id="badges">
+<div id="badges" style="display: flex; justify-content: center; align-items: center; height: 100vh;">
   <a href="https://www.linkedin.com/in/harman-s-mann/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
