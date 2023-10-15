@@ -20,13 +20,14 @@
 - Seeing things go from start to finish
 
 # 🌱 I’m currently learning:
-- Kotlin
+- Azure
+- Looking into Free Code Camp Stuff for some basic learning of Front-end, Back-end, Data, new newly added C#
 
 # 💞️ I’m looking to collaborate on
 - Android Development
 - Web Development
 - Game Development
-
+- (Really a Scatter Brain)
 ---
 
 ## :hammer_and_wrench: Languages and Tools:
