@@ -21,6 +21,8 @@
 
 # 🌱 I’m currently learning:
 - Azure
+- Kotlin
+- C#
 - Looking into Free Code Camp Stuff for some basic learning of Front-end, Back-end, Data, new newly added C#
 
 # 💞️ I’m looking to collaborate on
