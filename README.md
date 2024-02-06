@@ -1,5 +1,6 @@
 # 👋 Hi, I’m @HarmanSMann:
-
+Currently a Professor at Humber College
+Looking for any full time roles in software development
 
 # 📫 How to reach me:
 <div id="badges" style="display: flex; justify-content: center; align-items: center; height: 100vh;">
@@ -16,21 +17,13 @@
 
 # 👀 I’m interested in:
 - Making things
-- Developing for Android or the Web
-- Seeing things go from start to finish
+
 
 # 🌱 I’m currently learning:
-- Azure
-- Kotlin
-- C#
-- Looking into Free Code Camp Stuff for some basic learning of Front-end, Back-end, Data, new newly added C#
+
 
 # 💞️ I’m looking to collaborate on
-- Android Development
-- Web Development
-- Game Development
-- (Really a Scatter Brain)
----
+
 
 ## :hammer_and_wrench: Languages and Tools:
 
