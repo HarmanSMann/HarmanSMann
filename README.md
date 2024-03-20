@@ -15,15 +15,6 @@ Looking for any full time roles in software development
 ## Here is a Resume Video I made a while back:
 [My Resume Video](https://www.linkedin.com/posts/harman-s-mann_resume-technology-techtalent-activity-7026954462950809600-bP2b/?utm_source=share&utm_medium=member_desktop)
 
-# 👀 I’m interested in:
-- Making things
-
-
-//# 🌱 I’m currently learning:
-
-
-//# 💞️ I’m looking to collaborate on
-
 
 ## :hammer_and_wrench: Languages and Tools:
 
