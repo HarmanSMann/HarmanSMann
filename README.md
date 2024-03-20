@@ -19,10 +19,10 @@ Looking for any full time roles in software development
 - Making things
 
 
-# 🌱 I’m currently learning:
+//# 🌱 I’m currently learning:
 
 
-# 💞️ I’m looking to collaborate on
+//# 💞️ I’m looking to collaborate on
 
 
 ## :hammer_and_wrench: Languages and Tools:
