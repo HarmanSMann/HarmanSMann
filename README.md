@@ -1,6 +1,6 @@
 # 👋 Hi, I’m @HarmanSMann:
 Currently a Professor at Humber College
-Looking for any full time roles in software development
+Looking for any full-time roles in software development
 
 # 📫 How to reach me:
 <div id="badges" style="display: flex; justify-content: center; align-items: center; height: 100vh;">
@@ -12,12 +12,7 @@ Looking for any full time roles in software development
   </a>
 </div>
 
-## Here is a Resume Video I made a while back:
-[My Resume Video](https://www.linkedin.com/posts/harman-s-mann_resume-technology-techtalent-activity-7026954462950809600-bP2b/?utm_source=share&utm_medium=member_desktop)
-
-
 ## :hammer_and_wrench: Languages and Tools:
-
 <div style="display: flex; justify-content: center; align-items: center; gap: 20px;">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-plain-wordmark.svg" title="Android" alt="Android" width="60" height="60"/>&nbsp;
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="60" height="60"/>&nbsp;
@@ -36,14 +31,7 @@ Looking for any full time roles in software development
 
 ---
 
-## :fire: My Stats:
-  [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=HarmanSMann&theme=dark&background=000000)](https://git.io/streak-stats) 
-  
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HarmanSMann&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
-
-
-
-
 
 <!---
 HarmanSMann/HarmanSMann is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
